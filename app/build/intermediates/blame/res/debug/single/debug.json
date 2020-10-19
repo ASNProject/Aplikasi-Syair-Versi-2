@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uadlogo.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\uadlogo.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_search_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_active_dots.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\active_dots.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c4.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\c4.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rectangle_13.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\rectangle_13.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\a.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pengertian_syair_sejarah_macam_jenis_dan_contoh.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\pengertian_syair_sejarah_macam_jenis_dan_contoh.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ds.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\ds.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_group_23.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\group_23.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_photo_library_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_photo_library_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rectangle_13.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\rectangle_13.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rectangle_12.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\rectangle_12.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_photo_library_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_photo_library_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header2.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\header2.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_group_23.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\group_23.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_group_23.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\group_23.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_group_23.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\group_23.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_optimasi_waktu.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\optimasi_waktu.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unnamed.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\unnamed.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c3.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\c3.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_find_in_page_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_find_in_page_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contoh.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\activity_contoh.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_log1.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\log1.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_q1.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\q1.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_group_24.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\group_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sac.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\sac.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rectangle_11.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\rectangle_11.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header1.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\header1.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_log1.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\log1.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uadlogo.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\uadlogo.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_group_24.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\group_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ay.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\ay.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rectangle_11.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\rectangle_11.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_group_26.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\group_26.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rectangle_12.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\rectangle_12.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mip.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\mipmap-xhdpi\\mip.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sac.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\sac.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_awan.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\awan.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hebat_masih_sakit_jiwa_orang_ini_justru_buat_puisi_yang_mengagumkan.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\hebat_masih_sakit_jiwa_orang_ini_justru_buat_puisi_yang_mengagumkan.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nonactive_dots.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\nonactive_dots.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo_fit.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_fit.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qw.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\qw.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_group_25.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\group_25.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_group_23.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\group_23.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rectangle_12.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\rectangle_12.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_contoh.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\item_contoh.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo_fit.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\logo_fit.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_fit.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\logo_fit.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rectangle_11.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\rectangle_11.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rectangle_11.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\rectangle_11.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sac.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\sac.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_photo_library_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_photo_library_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sac.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\sac.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_group_27.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\group_27.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_expand_less_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_27.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\group_27.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_q3.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\q3.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sac.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\sac.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_find_in_page_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_find_in_page_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_group_24.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\group_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ay.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\ay.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rectangle_12.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\rectangle_12.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_search_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_24.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\group_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maxresdefault.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\maxresdefault.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_group_26.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\group_26.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_find_in_page_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_find_in_page_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_asfa.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\asfa.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_search_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kisspng_clip_art_muslim_vector_graphics_child_openclipart_5cc3cc2f0461c2_842551681556335663018.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\kisspng_clip_art_muslim_vector_graphics_child_openclipart_5cc3cc2f0461c2_842551681556335663018.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_log1.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\log1.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_group_26.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\group_26.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images__4_.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\images__4_.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_photo_library_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_photo_library_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cartoon_1319958_960_720.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\cartoon_1319958_960_720.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_photo_library_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_photo_library_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_find_in_page_24.xml.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_find_in_page_24.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_group_26.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\group_26.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_log1__1_.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\log1__1_.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_group_25.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\group_25.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c1.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\c1.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_search_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_25.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\group_25.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_q4.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\q4.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_group_27.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\group_27.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_log1.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\log1.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rectangle_13.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\rectangle_13.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rectangle_13.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\rectangle_13.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rectangle_13.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\rectangle_13.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_log1.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\log1.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\font_shink.otf.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\font\\shink.otf"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sac.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\sac.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kisspng_quran_islam_child_vector_graphics_muslim_1365327711_3_4312645259964187475_62816557_o_pn_5c9e61cddb13e0_6912953415538835978974.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\kisspng_quran_islam_child_vector_graphics_muslim_1365327711_3_4312645259964187475_62816557_o_pn_5c9e61cddb13e0_6912953415538835978974.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_group_27.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\group_27.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gambar1.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\gambar1.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\images.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_soal.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\activity_soal.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_video.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\item_video.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\font_segoepr.ttf.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\font\\segoepr.ttf"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_form_video.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\form_video.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_26.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\group_26.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rectangle_12.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\rectangle_12.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_find_in_page_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_find_in_page_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_puisi_tentang_kesunyian_tulismenulis_com__e1496900653325.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\puisi_tentang_kesunyian_tulismenulis_com__e1496900653325.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_item.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdv.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\sdv.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_fit.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\logo_fit.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\font_segoeprb.ttf.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\font\\segoeprb.ttf"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_photo_library_24.xml.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_photo_library_24.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_fit.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\logo_fit.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_06062020_144236_800_x_420_piksel_360d5151a6964bf39ed7372b96f4ab64_600xauto.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\img_06062020_144236_800_x_420_piksel_360d5151a6964bf39ed7372b96f4ab64_600xauto.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_search_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_group_25.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\group_25.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_contoh_item.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\contoh_item.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_q2.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\q2.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_23.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\group_23.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_log1.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\log1.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_find_in_page_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_find_in_page_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_photo_library_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_photo_library_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rectangle_12.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\rectangle_12.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_group_27.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\group_27.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c5.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\c5.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_as.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\as.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_group_25.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\group_25.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baa.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\baa.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_fit.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\logo_fit.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_expand_less_24.xml.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_expand_less_24.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rectangle_11.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-mdpi\\rectangle_11.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_group_27.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\group_27.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header3.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\header3.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c2.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\c2.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ujian.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\layout\\activity_ujian.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qwe.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\qwe.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\font_myfont.xml.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\font\\myfont.xml"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qe.jpg.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable\\qe.jpg"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_expand_less_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_expand_less_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bb.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\bb.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_log1.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxxhdpi\\log1.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rectangle_13.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-hdpi\\rectangle_13.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_group_24.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xxhdpi\\group_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pngkit_muslimah_png_4199507.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-xhdpi\\pngkit_muslimah_png_4199507.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_find_in_page_24.png.flat",
+        "source": "D:\\Syair20\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_find_in_page_24.png"
+    },
+    {
+        "merged": "D:\\Syair20\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rectangle_11.png.flat",
+        "source": "D:\\Syair20\\app\\src\\main\\res\\drawable-ldpi\\rectangle_11.png"
+    }
+]

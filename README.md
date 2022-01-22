@@ -12,8 +12,8 @@ Enjoy!!!
 <br />
 <br />
 
-###### Author<br />
+###### Author
 Yosi Wulandari, S.Pd., M.Pd.<br />
-##### Developer<br />
+##### Developer
 ASNProject<br />
 email: asnproject02@gmail.com
